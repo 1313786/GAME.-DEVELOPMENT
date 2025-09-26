@@ -1,5 +1,9 @@
 # EX 2 : Bresenham‘s Line Drawing Algorithm
 
+NAME : IRFAN KHAN.N
+
+REG NO: 212224230097
+
 **AIM :**
 
 
